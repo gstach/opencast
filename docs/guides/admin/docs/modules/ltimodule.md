@@ -87,7 +87,7 @@ custom parameters to be defined globally.
 
 - To show the media module, use `tool=engage/ui/`
 - To show all videos for a single series, use `tool=ltitools/series/index.html?series=SERIESID`
-- To show a single video, use `tool=/play/MEDIAPACKAGEID`
+- To show a single video, use `tool=play/MEDIAPACKAGEID`
 - To show a debug page before proceeding to the tool, append the parameter `test=true`
 
 For more information about how to set custom LTI parameters, please check the documentation of your LMS.
